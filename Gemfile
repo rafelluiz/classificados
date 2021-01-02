@@ -37,6 +37,7 @@ group :development, :test do
   gem 'pry'
   gem 'pry-meta'
   gem 'pry-rails'
+  gem 'factory_bot_rails' #biblioteca para gerar acessórios de testes 
 end
 
 group :development do
